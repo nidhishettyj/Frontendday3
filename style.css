@@ -1,0 +1,53 @@
+body{
+    color:black;
+}
+
+
+}
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+h2 {
+    
+    border: 10px solid blue;
+    padding: 50px;
+    margin: 100px;
+    background-color: yellow;
+    width: 200px;
+}
+
+h3 {
+    border: 10px solid blue;
+    padding: 50px 100px;
+    margin: 100px;
+    background-color: yellow;
+}
+
+span {
+    border: 10px solid blue;
+    padding: 50px;
+    margin: 100px;
+    background-color: yellow;
+}
+
+h1 {
+    border: 10px solid darkgreen;
+    padding: 50px;
+    margin: 10px;
+    background-color: orange;
+}
+
+.imp:hover {
+    background-color: red;;
+}
+
+#unique {
+    background-color: green;
+}
